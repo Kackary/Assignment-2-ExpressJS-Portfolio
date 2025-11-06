@@ -2,6 +2,9 @@
 
 A personal portfolio website built with Express.js and Node.js for INFR3120 Assignment 2.
 
+### View my Site Here:
+https://assignment-2-expressjs-portfolio.onrender.com/
+
 ## Pages
 - Home – Welcome page  
 - About Me – Information about me  
