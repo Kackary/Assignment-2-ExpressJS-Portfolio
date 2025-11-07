@@ -1,6 +1,6 @@
-# Personal Portfolio Website (2)
+# Assignment 2 ExpressJS Portfolio
 
-A personal portfolio website built with Express.js and Node.js for INFR3120 Assignment 2.
+A personal portfolio website built with Express.js and Node.js for INFR3120U Assignment 2.
 
 ### View my Site Here:
 https://assignment-2-expressjs-portfolio.onrender.com/
